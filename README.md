@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Talk-A-Tive
 
@@ -79,3 +80,6 @@ Start the Client
 - [@Piyush-eon](https://github.com/piyush-eon)
 
   
+=======
+# chatting_app
+>>>>>>> myorigin/main
